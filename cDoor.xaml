@@ -16,8 +16,8 @@
                 <RowDefinition Height="2*"/>
                 <RowDefinition Height="1*"/>
             </Grid.RowDefinitions>
-            <Label x:Name="lblDoor" Content="Door 12" HorizontalAlignment="Center" VerticalAlignment="center" FontSize="24" FontWeight="Bold"/>
-            <Label x:Name="lblTrailer" Content="01234567890" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Center" Padding="0"/>
+            <Label x:Name="lblDoor" Content="Door" HorizontalAlignment="Center" VerticalAlignment="center" FontSize="24" FontWeight="Bold"/>
+            <Label x:Name="lblTrailer" Content="Trailer Numebr" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Center" Padding="0"/>
         </Grid>
         <Label x:Name="lblStatus" Content="A" HorizontalAlignment="Center" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
     </Grid>
