@@ -5,8 +5,8 @@ C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\De
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor_MarkupCompile.lref
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.baml
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.g.resources
-C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.Properties.Resources.resources
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.csproj.GenerateResource.Cache
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.dll
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.pdb
 C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\cDoor.csprojResolveAssemblyReference.cache
+C:\Users\SuperFly\Documents\Visual Studio 2015\Projects\ControlTest\cDoor\obj\Debug\jfetting.Properties.Resources.resources

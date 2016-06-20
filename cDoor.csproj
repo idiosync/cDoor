@@ -7,7 +7,7 @@
     <ProjectGuid>{C476CE49-EB61-4DFE-842A-B5856BA054FA}</ProjectGuid>
     <OutputType>library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cDoor</RootNamespace>
+    <RootNamespace>jfetting</RootNamespace>
     <AssemblyName>cDoor</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
